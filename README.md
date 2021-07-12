@@ -1,5 +1,5 @@
 # SHAPE_AI_Bootcamp_Node.Js_BWD
-# ShapeAI_Bootcamp_NodeJS_BWD
+
 PREVIEW LINK OF PROJECT - https://04nfo.sse.codesandbox.io/
 
 # SHAPEAI Javascript and Nodejs BOOTCAMP
